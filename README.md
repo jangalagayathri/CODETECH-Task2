@@ -24,3 +24,8 @@ Arrays in Java
 if..else-if in Java
 
 TECHNOLOGIES USED: JAVA:OBJECT ORIENTED LANGUAGE. JAVA DEVELOPMENT KIT.
+![TASK2 OUTPUT 1](https://github.com/user-attachments/assets/bb7a3733-0881-4ecb-bda0-dd8fa2ab3f36)
+![TASK2 OUTPUT2](https://github.com/user-attachments/assets/412f33ed-b40f-464d-bd07-2cd17b2cd952)
+
+
+
